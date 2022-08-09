@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou a Renata! 👋
 
 <!--
 **RenataSene/RenataSene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
